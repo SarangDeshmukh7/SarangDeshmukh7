@@ -52,6 +52,9 @@ I am a passionate self-taught programmer from India.
 <h3><div class="boxed">
   Available for hire 🧑‍💼 
 </div><h3 />
+.boxed {
+  border: 1px solid green ;
+}
 
 
 
