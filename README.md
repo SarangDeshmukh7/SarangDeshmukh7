@@ -1,7 +1,9 @@
 ##  Hi there, I'm Sarang! 👋
 
 ### Glad to see you here! 🤩  
-I am a passionate self-taught programmer from India.
+I am a passionate self-taught programmer from India, available for hire 🧑‍💼
+
+ 
 
 <img src="https://camo.githubusercontent.com/4a1373646ed18da95a6d86d4131e0f4ead0236fd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966"/>
 
