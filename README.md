@@ -14,7 +14,7 @@ I am a passionate self-taught programmer from India.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
 
-###  Recent Blogs 📕
+###  Recent Blogs 📌
 
 
 - [Introduction to K-means Clustering](https://capablemachine.com/2020/08/13/k-means-clustering/)
