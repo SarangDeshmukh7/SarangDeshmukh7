@@ -47,12 +47,8 @@ I am a passionate self-taught programmer from India.
   <img align="left" alt="Sarang's Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<br />
 
 
-{
-  "line": "dark"
-}
 ## Available for hire 🧑‍💼 
 
 
