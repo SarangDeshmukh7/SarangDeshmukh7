@@ -9,12 +9,12 @@ I am a passionate self-taught programmer from India.
 
 
 
+- 😄 Available for hire
 - 🔭 I’m graduate Engineer from University of Pune.
 - 🌱 I’m currently learning Statistics and Machine Learning concepts in more detail.
 - 👯 I’m looking to collaborate on my Blogging website [Capable Machine](https://capablemachine.com/)
 - 🤔 I’m looking for help with Cloud Computing.
 - 💬 Ask me about Content Creating, Data Analysis, Data Visualization. 
-- 😄 Available for hire
 - 📫 How to reach me: sarangdeshmukh783@gmail.com | [Capable Machine](https://capablemachine.com/)
 - ⚡ Fun fact: “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
 
