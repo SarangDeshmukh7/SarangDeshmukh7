@@ -51,23 +51,8 @@ I am a passionate self-taught programmer from India.
 
 
 {
-  "headingPrefix": {
-    "1": "➜ ",
-    "2": "⭑ "
-  }
+  "line": "dark"
 }
 ## Available for hire 🧑‍💼 
-{
-  "headingPrefix": {
-    "1": "➜ ",
-    "2": "⭑ "
-  }
-}
-
-
-
-
-  
-
 
 
