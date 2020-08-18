@@ -1,9 +1,5 @@
-### Here is what i am doing 👋
+###  Here is What I'm working on! 👋
 
-<!--
-**SarangDeshmukh7/SarangDeshmukh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working in the feild of Data Science
 - 🌱 I’m currently learning Statistics and Deep Learning concepts
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sarangdeshmukh783@gmail.com | https://capablemachine.com/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
--->
+
