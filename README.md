@@ -46,9 +46,5 @@ I am a passionate self-taught programmer from India.
 <a href="https://www.facebook.com/sarang.deshmukh.31586">
   <img align="left" alt="Sarang's Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
- <b/>
-
-
-## Available for hire 🧑‍💼 
-
+ 
 
