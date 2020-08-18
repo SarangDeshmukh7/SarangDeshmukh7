@@ -49,7 +49,20 @@ I am a passionate self-taught programmer from India.
 
 <br />
 
+
+{
+  "headingPrefix": {
+    "1": "➜ ",
+    "2": "⭑ "
+  }
+}
 ## Available for hire 🧑‍💼 
+{
+  "headingPrefix": {
+    "1": "➜ ",
+    "2": "⭑ "
+  }
+}
 
 
 
