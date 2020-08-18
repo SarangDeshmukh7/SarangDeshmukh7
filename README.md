@@ -25,25 +25,27 @@
 
 ### Connect me on 🤷‍♂️
 <a href="https://twitter.com/ohidurbappy">
-  <img align="left" alt="Sarang's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Sarang's Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sarang-deshmukh-125197182/">
-  <img align="left" alt="Sarang's Linkdein" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sarang's Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/SarangDeshmukh7">
-  <img align="left" alt="Sarang's Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Sarang's Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/saranghimself/">
-  <img align="left" alt="Sarang's Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Sarang's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/sarang.deshmukh.31586">
-  <img align="left" alt="Sarang's Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Sarang's Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br />
 
 
-  <h4 style="text-align:center;">Show some ❤️ by starring some of the repositories!</h4>
+  
+  
+<h4 style="text-align:center;">Show some ❤️ by starring some of the repositories!</h4>
 
 
 
