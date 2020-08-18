@@ -1,4 +1,8 @@
-###  Here is What I'm working on! 👋
+##  Hi there, I'm Sarang! 👋
+
+### Glad to see you here! 🤩  
+I am a passionate self-taught programmer from India.
+
 
 
 - 🔭 I’m currently working in the feild of Data Science.
