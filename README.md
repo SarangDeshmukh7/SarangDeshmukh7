@@ -49,11 +49,9 @@ I am a passionate self-taught programmer from India.
 
 <br />
 
-<body>
-<marquee direction="left" height="100" width="200" bgcolor="white">Scrolling text</marquee>
-</body>
+### \*Available for hire 🧑‍💼\*
 
-### Available for hire 🧑‍💼
+
   
 
 
