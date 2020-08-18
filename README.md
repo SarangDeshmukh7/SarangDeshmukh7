@@ -38,9 +38,6 @@ I am a passionate self-taught programmer from India.
 <a href="https://www.linkedin.com/in/sarang-deshmukh-125197182/">
   <img align="left" alt="Sarang's Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/SarangDeshmukh7">
-  <img align="left" alt="Sarang's Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://www.instagram.com/saranghimself/">
   <img align="left" alt="Sarang's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
