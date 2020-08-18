@@ -49,12 +49,10 @@ I am a passionate self-taught programmer from India.
 
 <br />
 
-<h3><div class="boxed">
+<h2 text-align = "Center"><div class="boxed">
   Available for hire 🧑‍💼 
-</div><h3 />
-.boxed {
-  border: 1px solid green ;
-}
+</div><h2 />
+
 
 
 
