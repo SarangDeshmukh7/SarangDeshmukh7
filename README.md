@@ -49,7 +49,11 @@ I am a passionate self-taught programmer from India.
 
 <br />
 
-### * \*Available for hire 🧑‍💼\* *
+<h3><div class="boxed">
+  Available for hire 🧑‍💼 
+</div><h3 />
+
+
 
 
   
