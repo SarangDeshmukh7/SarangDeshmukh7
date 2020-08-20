@@ -18,7 +18,7 @@ I am a passionate self-taught programmer from India.
 - 📫 How to reach me: sarangdeshmukh783@gmail.com | [Capable Machine](https://capablemachine.com/)
 - ⚡ Fun fact: “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
 
-###  Recent Blogs 📌
+###  Recent blog posts 📌
 
 
 - [Introduction to K-means Clustering](https://capablemachine.com/2020/08/13/k-means-clustering/)
