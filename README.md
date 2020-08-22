@@ -31,7 +31,7 @@ I am a passionate self-taught programmer from India.
 <img src = "https://github-readme-stats.vercel.app/api?username=SarangDeshmukh7&&show_icons=true&title_color= #FFFFFF&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
-#### 🥅 2020 Goals: Contribute more to Open Source projects
+#### 🥅 2020 Goals: Contribute more to Open Source projects.
 
 
 
@@ -53,4 +53,4 @@ I am a passionate self-taught programmer from India.
   <img align="left" alt="Sarang's Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
  
-
+<b>
