@@ -20,10 +20,9 @@ I am a passionate self-taught programmer from India.
 
 ###  Recent blog posts 📌
 
-
+- [Regularization in Neural Networks](https://capablemachine.com/2020/08/20/regularization-in-neural-networks/)
 - [Introduction to K-means Clustering](https://capablemachine.com/2020/08/13/k-means-clustering/)
 - [Literature Review on You Only Look Once Model](https://capablemachine.com/2020/07/21/literature-review-on-you-only-look-once-model/)
-- [A brief Introduction to Probability Distribution for Machine Learning](https://capablemachine.com/2020/07/11/a-brief-introduction-to-probability-distribution-for-machine-learning/)
 
 ### Overview ⭕
 
