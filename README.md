@@ -5,8 +5,7 @@ I am a passionate self-taught programmer from India.
 
  
 <img
-src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="400" height="300" /> <img src = "https://github-readme-stats.vercel.app/api?username=SarangDeshmukh7&&show_icons=true&title_color= #FFFFFF&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
+src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="400" height="300" />
 
 - 😄 Available for hire
 - 🔭 I’m graduate Engineer from University of Pune.
