@@ -6,7 +6,7 @@
  
 
 <img 
-src = "https://www.camdenclothing.ie/_media/media/200505155000-87.gif" width = "400" height ="300"/>
+src = "https://www.camdenclothing.ie/_media/media/200505155000-87.gif" width = "500" height ="400"/>
 
 
 - 😄 Available for hire
