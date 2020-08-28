@@ -6,9 +6,7 @@
  
 
 <img 
-src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width = "400" height ="300"/>
-
-<img
+src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width = "400" height ="300"/> <img
 src = "https://content.invisioncic.com/p289038/monthly_2020_04/arrow-down.gif.c819a92ab7162c828e944727a545dcd7.gif" width = "100" height ="100"/>
 
 
