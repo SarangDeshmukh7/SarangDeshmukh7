@@ -6,7 +6,7 @@
  
 
 <img 
-src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width = "400" height ="300"/>
+src = "https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" width = "400" height ="300"/>
 
 
 - 😄 Available for hire
