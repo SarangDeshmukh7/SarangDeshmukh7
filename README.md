@@ -5,7 +5,7 @@ I am a passionate self-taught programmer from India.
 
  
 <img
-src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="400" height="300" />
+src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="460" height="300" />
 
 <img 
 src = "https://magiccopy.xyz/assets/images/hadder.gif" width = "500" height ="300"/>
