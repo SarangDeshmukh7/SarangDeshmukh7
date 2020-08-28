@@ -8,8 +8,6 @@ I am a passionate self-taught programmer from India.
 <img 
 src = "https://magiccopy.xyz/assets/images/hadder.gif" width = "500" height ="300"/>
 
-<img
-src = "https://giant.gfycat.com/EvilNextDevilfish.webm" width = 400 height = "300"/>
 
 - 😄 Available for hire
 - 🔭 I’m graduate Engineer from University of Pune.
