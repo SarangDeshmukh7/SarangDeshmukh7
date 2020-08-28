@@ -5,7 +5,7 @@ I am a passionate self-taught programmer from India.
 
  
 <img
-src = "https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/  width="400" height="400">
+src = "https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="400" height="400" />
 
 - 😄 Available for hire
 - 🔭 I’m graduate Engineer from University of Pune.
