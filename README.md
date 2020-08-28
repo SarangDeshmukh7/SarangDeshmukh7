@@ -7,6 +7,9 @@ I am a passionate self-taught programmer from India.
 <img
 src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="400" height="300" />
 
+<img 
+src = "https://magiccopy.xyz/assets/images/hadder.gif" width = "400" height ="300"/>
+
 - 😄 Available for hire
 - 🔭 I’m graduate Engineer from University of Pune.
 - 🌱 I’m currently learning Statistics and Machine Learning concepts in more detail.
