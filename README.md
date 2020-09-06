@@ -1,4 +1,4 @@
-##  Hi there, I'm Sarang! 👋
+##  Hi there, I'm Sarang! Machine Learning Engineer at AiAdventures 👋
 
 ### Glad to see you here! 🤩  
 - I am a passionate self-taught programmer from India.
