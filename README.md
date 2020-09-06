@@ -1,7 +1,7 @@
 ##  Hi there, I'm Sarang!👋
 
 ### Glad to see you here! 🤩  
-- I'am Machine Learning Engineer at AiAdventures 👋
+- I'm Machine Learning Engineer at AiAdventures 👋
 
  
 
