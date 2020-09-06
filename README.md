@@ -9,7 +9,7 @@
 src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width = "400" height ="300"/> 
 
 
-- 😄 Available for hire
+
 - 🔭 I’m graduate Engineer from University of Pune.
 - 🌱 I’m currently learning Statistics and Machine Learning concepts in more detail.
 - 👯 I’m looking to collaborate on my Blogging website [Capable Machine](https://capablemachine.com/)
