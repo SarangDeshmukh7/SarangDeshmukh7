@@ -31,10 +31,11 @@ src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width = "400" heig
 
 ### Languages and Tools  
 
-<code><img height="50" src="https://juniortech.org/wp-content/uploads/2017/04/python-software-logo-300x158.jpg"></code>
 <code><img height="50" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
+<code><img height="50" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png"></code>
+
 <code><img height="50" src="https://user-images.githubusercontent.com/1217238/65354639-dd928f80-dba4-11e9-833b-bc3e8c6a737d.png"></code>
 <code><img height="50" src="https://staging.academy.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
