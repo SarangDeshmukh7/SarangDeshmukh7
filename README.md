@@ -36,7 +36,7 @@ src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width = "400" heig
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
 <code><img height="60" src="https://abutua.com/images/cabutua03.png"></code>
-<code><img height="60" src="https://i7.pngguru.com/preview/46/626/460/the-c-programming-language-computer-icons-computer-programming-source-code-programming.jpg"></code>
+<code><img height="60" src="https://cdn.freebiesupply.com/logos/thumbs/2x/c-logo.png"></code>
 
 <code><img height="50" src="https://user-images.githubusercontent.com/1217238/65354639-dd928f80-dba4-11e9-833b-bc3e8c6a737d.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"></code>
