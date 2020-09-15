@@ -29,6 +29,19 @@ src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width = "400" heig
 
 <img src = "https://github-readme-stats.vercel.app/api?username=SarangDeshmukh7&&show_icons=true&title_color= #FFFFFF&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+**Languages and Tools:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="30" src="https://github.com/chiragsamal/Pothole-Detection/blob/master/Images/pytorch.jpeg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"></code>
+<code><img height="30" src="https://www.janmeppe.com/assets/2019-12-24-matplotlib/matplotlib.jpg"></code>
+<code><img height="30" src="https://seabornnetworks.com/2020/wp-content/uploads/2017/05/seaborn.jpg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 #### 🥅 2020 Goals: Contribute more to Open Source projects.
 
