@@ -37,7 +37,7 @@ src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width = "400" heig
 <code><img height="50" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png"></code>
 
 <code><img height="50" src="https://user-images.githubusercontent.com/1217238/65354639-dd928f80-dba4-11e9-833b-bc3e8c6a737d.png"></code>
-<code><img height="50" src="https://staging.academy.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png"></code>
+<code><img height="50" src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"></code>
