@@ -38,7 +38,7 @@ src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width = "400" heig
 
 <code><img height="50" src="https://user-images.githubusercontent.com/1217238/65354639-dd928f80-dba4-11e9-833b-bc3e8c6a737d.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"></code>
-<code><img height="35" src="https://miro.medium.com/max/1200/1*dr3pZsLJg28gKwq0MXp1Mg.png"></code>
+<code><img height="50" src="https://miro.medium.com/max/1200/1*dr3pZsLJg28gKwq0MXp1Mg.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSaqzyC6qoTKowAEFR8D3rzGHVYLQUnK4bRpw&usqp=CAU"></code>
 <code><img height="50" src="https://www.janmeppe.com/assets/2019-12-24-matplotlib/matplotlib.jpg"></code>
