@@ -40,7 +40,7 @@ src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width = "400" heig
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"></code>
 <code><img height="50" src="https://cdn-images-1.medium.com/max/1024/1*-QTg-_71YF0SVshMEaKZ_g.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSaqzyC6qoTKowAEFR8D3rzGHVYLQUnK4bRpw&usqp=CAU"></code>
+<code><img height="35" src="https://keras.io/img/logo.png"></code>
 <code><img height="50" src="https://www.janmeppe.com/assets/2019-12-24-matplotlib/matplotlib.jpg"></code>
 <code><img height="50" src="https://seabornnetworks.com/2020/wp-content/uploads/2017/05/seaborn.jpg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
