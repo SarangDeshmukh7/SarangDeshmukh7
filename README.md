@@ -32,7 +32,7 @@ src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width = "400" heig
 ### Tools, Languages and Libraries 
 
 <code><img height="48" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a"></code>
-<code><img height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTghuUz9F-_HCVM-xt02BOGajt0qk5usc9NcA&usqp=CAU"></code>
+<code><img height="48" src="https://hackernoon.com/hn-images/1*rW03Wtue71AKfxnx6XN_iQ.png"></code>
 <code><img height="48" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"></code>
 <code><img height="50" src="https://cdn.freebiesupply.com/logos/thumbs/2x/c-logo.png"></code>
