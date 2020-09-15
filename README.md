@@ -34,7 +34,7 @@ src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width = "400" heig
 <code><img height="50" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
-<code><img height="50" src="https://dyclassroom.com/image/topic/python/logo.png"></code>
+<code><img height="50" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/1217238/65354639-dd928f80-dba4-11e9-833b-bc3e8c6a737d.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"></code>
 <code><img height="50" src="https://cdn-images-1.medium.com/max/1024/1*-QTg-_71YF0SVshMEaKZ_g.png"></code>
