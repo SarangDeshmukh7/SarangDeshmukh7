@@ -42,6 +42,7 @@ src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width = "400" heig
 <code><img height="50" src="https://miro.medium.com/max/600/0*LZQf7b4u8f97izwV.png"></code>
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxluFBnLXSCS5mSKudPHyQy0P3ugmwHYixMg&usqp=CAU"></code>
 <code><img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://spin.atomicobject.com/wp-content/uploads/20180917161630/flask.png"></code>
 
