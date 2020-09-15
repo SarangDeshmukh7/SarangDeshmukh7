@@ -29,7 +29,7 @@ src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width = "400" heig
 
 <img src = "https://github-readme-stats.vercel.app/api?username=SarangDeshmukh7&&show_icons=true&title_color= #FFFFFF&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-**Languages and Tools:**  
+### Languages and Tools  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a"></code>
