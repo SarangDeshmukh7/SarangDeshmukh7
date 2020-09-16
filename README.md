@@ -1,25 +1,10 @@
-##  Hi there, I'm Sarang!👋
 
 
 <img src = "https://user-images.githubusercontent.com/66946910/93316216-8d86f100-f829-11ea-98f3-16ea65b20243.png" />
 
-### Glad to see you here! 🤩  
-- I'm Machine Learning Engineer at AiAdventures 👋
+
 
  
-
-<img 
-src = "https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width = "400" height ="300"/> 
-
-
-
-- 🔭 I’m graduate Engineer from University of Pune.
-- 🌱 I’m currently learning Statistics and Machine Learning concepts in more detail.
-- 👯 I’m looking to collaborate on my Blogging website [Capable Machine](https://capablemachine.com/)
-- 🤔 I’m looking for help with Cloud Computing.
-- 💬 Ask me about Content Creating, Data Analysis, Data Visualization. 
-- 📫 How to reach me: sarangdeshmukh783@gmail.com | [Capable Machine](https://capablemachine.com/)
-- ⚡ Fun fact: “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
 
 ### Tools, Languages and Libraries 
 
