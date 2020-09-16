@@ -1,5 +1,7 @@
 ##  Hi there, I'm Sarang!👋
 
+<img src = "https://www.canva.com/design/DAEH8BnQsiQ/Z9dfR4O-smVJZ81-6PWZoA/view?utm_content=DAEH8BnQsiQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" />
+
 ### Glad to see you here! 🤩  
 - I'm Machine Learning Engineer at AiAdventures 👋
 
