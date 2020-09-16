@@ -1,7 +1,7 @@
 ##  Hi there, I'm Sarang!👋
 
 
-<img src = "https://github.com/SarangDeshmukh7/SarangDeshmukh7/issues/1#issue-702589380" />
+<img src = "https://user-images.githubusercontent.com/66946910/93316216-8d86f100-f829-11ea-98f3-16ea65b20243.png" />
 
 ### Glad to see you here! 🤩  
 - I'm Machine Learning Engineer at AiAdventures 👋
