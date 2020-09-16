@@ -1,6 +1,6 @@
 ##  Hi there, I'm Sarang!👋
 
-<img src = "https://www.canva.com/design/DAEH8BnQsiQ/Z9dfR4O-smVJZ81-6PWZoA/view" />
+<img src = "https://i0.wp.com/capablemachine.com/wp-content/uploads/2020/09/Fun-Purple-Illustrated-3D-Humans-Education-Keynote-Presentation.png?resize=1024%2C576&ssl=1" />
 
 ### Glad to see you here! 🤩  
 - I'm Machine Learning Engineer at AiAdventures 👋
