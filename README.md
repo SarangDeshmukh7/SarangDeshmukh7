@@ -27,20 +27,20 @@
 <code><img height="50" src="https://spin.atomicobject.com/wp-content/uploads/20180917161630/flask.png"></code>
 
 
-###  Recent blog posts 📌
+###  Recent blog posts 
 
 - [Regularization in Neural Networks](https://capablemachine.com/2020/08/20/regularization-in-neural-networks/)
 - [Introduction to K-means Clustering](https://capablemachine.com/2020/08/13/k-means-clustering/)
 - [Literature Review on You Only Look Once Model](https://capablemachine.com/2020/07/21/literature-review-on-you-only-look-once-model/)
 
-### Overview ⭕
+### Overview 
 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=SarangDeshmukh7&&show_icons=true&title_color= #FFFFFF&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 
-### Connect with me ❤️
+### Connect with me 
 
 
 
