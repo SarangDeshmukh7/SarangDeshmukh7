@@ -22,7 +22,7 @@
 <code><img height="50" src="https://cdn-images-1.medium.com/max/1024/1*-QTg-_71YF0SVshMEaKZ_g.png"></code>
 <code><img height="50" src="https://miro.medium.com/max/600/0*LZQf7b4u8f97izwV.png"></code>
 
-<code><img height="50" src="https://www.tutorialspoint.com/matplotlib/images/matplotlib_image.jpg"></code>
+<code><img height="48" src="https://www.tutorialspoint.com/matplotlib/images/matplotlib_image.jpg"></code>
 <code><img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
 <code><img height="50" src="https://logodix.com/logo/1989939.png"></code>
 <code><img height="50" src="https://spin.atomicobject.com/wp-content/uploads/20180917161630/flask.png"></code>
