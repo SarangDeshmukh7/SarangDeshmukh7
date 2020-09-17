@@ -21,8 +21,8 @@
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"></code>
 <code><img height="50" src="https://cdn-images-1.medium.com/max/1024/1*-QTg-_71YF0SVshMEaKZ_g.png"></code>
 <code><img height="50" src="https://miro.medium.com/max/600/0*LZQf7b4u8f97izwV.png"></code>
-<code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxluFBnLXSCS5mSKudPHyQy0P3ugmwHYixMg&usqp=CAU"></code>
 
+<code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxluFBnLXSCS5mSKudPHyQy0P3ugmwHYixMg&usqp=CAU"></code>
 <code><img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
 <code><img height="50" src="https://logodix.com/logo/1989939.png"></code>
 <code><img height="50" src="https://spin.atomicobject.com/wp-content/uploads/20180917161630/flask.png"></code>
