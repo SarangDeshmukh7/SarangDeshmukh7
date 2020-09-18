@@ -40,7 +40,7 @@
 ### Overview 
 
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=SarangDeshmukh7&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,8B33A3,8B33A3,8226D4,8429C7&theme=graywhite" />
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=SarangDeshmukh7&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=fffff,8B33A3,8B33A3,8226D4,8429C7&theme=graywhite" />
 
 
 
