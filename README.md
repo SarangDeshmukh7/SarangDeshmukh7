@@ -1,10 +1,4 @@
-
-
 <img src = "https://user-images.githubusercontent.com/66946910/93323073-c0cd7e00-f831-11ea-99c6-afd0b196259c.png" />
-
-
-
- 
 
 ### Technologies & Tools
 
@@ -54,4 +48,3 @@
 
 </p>
 <p>
-
