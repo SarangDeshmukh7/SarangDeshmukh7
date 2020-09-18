@@ -30,7 +30,7 @@
 
 ### My website
 
-<img width = "300" height = "57" src = "https://i0.wp.com/capablemachine.com/wp-content/uploads/2020/08/cropped-Black-with-Green-Cube-Computer-Logo-27-12.png?w=910&ssl=1"/>
+<code><img width = "300" height = "57" src = "https://i0.wp.com/capablemachine.com/wp-content/uploads/2020/08/cropped-Black-with-Green-Cube-Computer-Logo-27-12.png?w=910&ssl=1"></code>
 
 ###  Recent blog posts
 
