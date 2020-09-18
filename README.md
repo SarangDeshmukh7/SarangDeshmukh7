@@ -27,7 +27,7 @@
 <code><img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
 <code><img height="50" src="https://logodix.com/logo/1989939.png"></code>
 <code><img height="50" src="https://spin.atomicobject.com/wp-content/uploads/20180917161630/flask.png"></code>
-![Java](https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![Java](https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg/-Java-000000?style=flat&logo=Java&logoColor=007396)
 
 
 
