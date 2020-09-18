@@ -50,7 +50,6 @@
   <a href="https://www.instagram.com/saranghimself/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sarang-deshmukh-125197182/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/ohidurbappy"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  [![Gmail Badge](https://img.shields.io/badge/-sarangdeshmukh783@gmail.com-d14836?style=square&logo=Gmail&logoColor=white&link=mailto:sarangdeshmukh783@gmail.com)](sarangdeshmukh783@gmail.com)
 
 </p>
 <p>
