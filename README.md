@@ -6,7 +6,7 @@
 
  
 
-### Tools, Languages and Libraries 
+### Technologies & Tools
 
 <code><img height="48" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a"></code>
 <code><img height="47" src="https://hackernoon.com/hn-images/1*rW03Wtue71AKfxnx6XN_iQ.png"></code>
