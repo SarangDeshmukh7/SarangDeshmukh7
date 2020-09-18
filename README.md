@@ -41,8 +41,9 @@
 ### Overview 
 
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=SarangDeshmukh7&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=45,8B33A3,8B33A3,8226D4,8429C7&theme=graywhite" />
-
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SarangDeshmukh7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sarang's GitHub Stats" />
+</a>
 
 
 ### Connect with me 
