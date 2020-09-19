@@ -22,12 +22,12 @@
 <code><img height="50" src="https://logodix.com/logo/1989939.png"></code>
 <code><img height="50" src="https://spin.atomicobject.com/wp-content/uploads/20180917161630/flask.png"></code>
 
-### My website
+### My Website
 
 <a href="https://capablemachine.com/"><img width = "300" height = "55" src = "https://i0.wp.com/capablemachine.com/wp-content/uploads/2020/08/cropped-Black-with-Green-Cube-Computer-Logo-27-12.png?w=910&ssl=1"></code></a>
 
 
-###  Recent blog posts
+###  Recent Blog Posts
 
 - [Machine Learning In Medicine](https://capablemachine.com/2020/08/31/machine-learning-in-medicine/)
 - [Regularization in Neural Networks](https://capablemachine.com/2020/08/20/regularization-in-neural-networks/)
@@ -41,7 +41,7 @@
 
 
 
-### Connect with me 
+### Connect With Me 
 
   <a href="https://www.instagram.com/saranghimself/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sarang-deshmukh-125197182/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
