@@ -5,6 +5,7 @@
 <code><img height="48" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a"></code>
 <code><img height="47" src="https://hackernoon.com/hn-images/1*rW03Wtue71AKfxnx6XN_iQ.png"></code>
 <code><img height="48" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
+<code><img height = "48" src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b5e7dcc-db45-4acb-8078-4f1e40191fe1/dbfj7sj-8c115cf5-45b4-4fbe-b467-0b548c99d781.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOWI1ZTdkY2MtZGI0NS00YWNiLTgwNzgtNGYxZTQwMTkxZmUxXC9kYmZqN3NqLThjMTE1Y2Y1LTQ1YjQtNGZiZS1iNDY3LTBiNTQ4Yzk5ZDc4MS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.5EcIL0wIimUo9RQW_CP5JNBZ9bZX0tnKDAy3xo_y0Jk"/>
 <code><img height="43" src="https://www.defactoinfotech.com/wp-content/uploads/2018/04/pOWERbi-png.png"></code>
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"></code>
 <code><img height="50" src="https://cdn.freebiesupply.com/logos/thumbs/2x/c-logo.png"></code>
