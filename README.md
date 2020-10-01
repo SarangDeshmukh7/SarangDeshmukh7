@@ -43,9 +43,7 @@
 
 ###  Recent Blog Posts
 
-- [Machine Learning In Medicine](https://capablemachine.com/2020/08/31/machine-learning-in-medicine/)
-- [Regularization in Neural Networks](https://capablemachine.com/2020/08/20/regularization-in-neural-networks/)
-- [Literature Review on You Only Look Once Model](https://capablemachine.com/2020/07/21/literature-review-on-you-only-look-once-model/)
+[Machine Learning In Medicine](https://capablemachine.com/2020/08/31/machine-learning-in-medicine/) | [Regularization in Neural Networks](https://capablemachine.com/2020/08/20/regularization-in-neural-networks/) | [Literature Review on You Only Look Once Model](https://capablemachine.com/2020/07/21/literature-review-on-you-only-look-once-model/)
 
 
 
