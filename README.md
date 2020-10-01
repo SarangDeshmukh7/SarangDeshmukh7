@@ -42,13 +42,6 @@
 - [Literature Review on You Only Look Once Model](https://capablemachine.com/2020/07/21/literature-review-on-you-only-look-once-model/)
 
 
-### Overview 
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SarangDeshmukh7&show_icons=true&theme=buefy)
-
-
-
 ### Connect With Me 
 
   <a href="https://www.instagram.com/saranghimself/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
