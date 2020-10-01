@@ -13,7 +13,7 @@
 <code><img height="60" src="https://abutua.com/images/cabutua03.png"></code>
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
 <code><img height= "50" src = "https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png"></code>
-
+<code><img height="50" src="https://i.dlpng.com/static/png/6689252_preview.png"></code>
 
 <code><img height="50" src="https://user-images.githubusercontent.com/1217238/65354639-dd928f80-dba4-11e9-833b-bc3e8c6a737d.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"></code>
@@ -24,7 +24,6 @@
 <code><img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
 <code><img height="50" src="https://logodix.com/logo/1989939.png"></code>
 <code><img height="50" src="https://spin.atomicobject.com/wp-content/uploads/20180917161630/flask.png"></code>
-<code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQv2zRQPXzKPshmCjjFKSDsejGtD_Gg6Fbrzw&usqp=CAU"></code>
 
 
 ### My Website
