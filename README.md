@@ -20,8 +20,8 @@
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
 <code><img height="53" src="https://img.icons8.com/color/452/mongodb.png"></code>
 <code><img height="55" src="https://lh3.googleusercontent.com/proxy/IbzpdF5gCk3rXyBH7hCeRURENV2OtsMltvn8AxK8Mo8Ura7_eP3IDl311P_lMa8BlKKQb42EXKJs7hBVGIopWPtCxQ9rImtOS1UsdsHq7haT5ND7"></code>
-<code><img height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
-<code><img height="48" src="https://img.icons8.com/ios/452/power-bi.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
+<code><img height="53" src="https://img.icons8.com/ios/452/power-bi.png"></code>
 
 
 
