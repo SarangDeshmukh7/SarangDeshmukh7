@@ -8,7 +8,6 @@
 <code><img height="47" src="https://secrethub.io/img/vs-code.svg"></code>
 <code><img height="47" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/feaf74a2-da81-42f2-9c50-37686d02557a/d73n2y9-fc7e0a66-1dd8-42d2-9aba-29a33990067b.png"></code>
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/600px-Power_bi_logo_black.svg.png"></code>
 <code><img height = "50" src = "https://secureservercdn.net/50.62.174.113/wn8.1ec.myftpupload.com/wp-content/uploads/2020/09/C.png?time=1599199806"></code>
 <code><img height="50" src="https://cdn.freebiesupply.com/logos/thumbs/2x/c-logo.png"></code>
 <code><img height="60" src="https://abutua.com/images/cabutua03.png"></code>
@@ -23,6 +22,10 @@
 <code><img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
 <code><img height="50" src="https://logodix.com/logo/1989939.png"></code>
 <code><img height="50" src="https://spin.atomicobject.com/wp-content/uploads/20180917161630/flask.png"></code>
+
+<code><img height="50" src="https://ab60k6ltry3s9gd53px0mr16-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/Power-Bi-logo-transparent.png"></code>
+<code><img height="50" src="https://i0.wp.com/www.computersnyou.com/wp-content/uploads/2014/12/postgresql-logo.png?fit=610%2C280&ssl=1"></code>
+<code><img height="50" src="https://erpfm.com/media/image/224-mysql-logo.jpg"></code>
 
 
 
