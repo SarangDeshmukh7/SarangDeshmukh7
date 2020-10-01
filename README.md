@@ -25,7 +25,7 @@
 <code><img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
 <code><img height="50" src="https://logodix.com/logo/1989939.png"></code>
 <code><img height="50" src="https://spin.atomicobject.com/wp-content/uploads/20180917161630/flask.png"></code>
-<code><img height="50" src="https://ab60k6ltry3s9gd53px0mr16-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/Power-Bi-logo-transparent.png"></code>
+<code><img height="50" src="https://images.ctfassets.net/k49d63tr8kcn/1hipqDfa2C4MkMMai0CSm2/5ad9c176bb8b6fdacdaa46cd8d693e51/powerbi.png"></code>
 
 
 ### My Website
