@@ -24,8 +24,8 @@
 <code><img height="50" src="https://spin.atomicobject.com/wp-content/uploads/20180917161630/flask.png"></code>
 
 <code><img height="50" src="https://ab60k6ltry3s9gd53px0mr16-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/Power-Bi-logo-transparent.png"></code>
-<code><img height="50" src="https://i0.wp.com/www.computersnyou.com/wp-content/uploads/2014/12/postgresql-logo.png?fit=610%2C280&ssl=1"></code>
-<code><img height="50" src="https://erpfm.com/media/image/224-mysql-logo.jpg"></code>
+<code><img height="50" src="https://gregberge.com/static/03d4a0e1a14375e31978ab665fb0550d/29007/postgresql.png"></code>
+<code><img height="40" src="https://erpfm.com/media/image/224-mysql-logo.jpg"></code>
 
 
 
