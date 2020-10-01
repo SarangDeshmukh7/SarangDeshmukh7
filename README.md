@@ -18,6 +18,8 @@
 <code><img height="50" src="https://cdn.freebiesupply.com/logos/thumbs/2x/c-logo.png"></code>
 <code><img height="60" src="https://abutua.com/images/cabutua03.png"></code>
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
+<code><img height="48" src="https://img.icons8.com/color/452/mongodb.png"></code>
+<code><img height="45" src="https://lh3.googleusercontent.com/proxy/IbzpdF5gCk3rXyBH7hCeRURENV2OtsMltvn8AxK8Mo8Ura7_eP3IDl311P_lMa8BlKKQb42EXKJs7hBVGIopWPtCxQ9rImtOS1UsdsHq7haT5ND7"></code>
 
 
 
