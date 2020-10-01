@@ -8,6 +8,7 @@
 <code><img height="47" src="https://secrethub.io/img/vs-code.svg"></code>
 <code><img height="43" src="https://www.defactoinfotech.com/wp-content/uploads/2018/04/pOWERbi-png.png"></code>
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"></code>
+<code><img height = "48" src = "https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png"></code>
 <code><img height="50" src="https://cdn.freebiesupply.com/logos/thumbs/2x/c-logo.png"></code>
 <code><img height="60" src="https://abutua.com/images/cabutua03.png"></code>
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
