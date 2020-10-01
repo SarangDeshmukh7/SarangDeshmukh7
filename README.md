@@ -23,7 +23,7 @@
 <code><img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
 <code><img height="50" src="https://logodix.com/logo/1989939.png"></code>
 <code><img height="50" src="https://spin.atomicobject.com/wp-content/uploads/20180917161630/flask.png"></code>
-<code><img height= "50" src = "https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png"></code>
+<code><img height= "50" src = "https://realm.io/assets/svg/icons/database/database.svg"></code>
 
 
 
