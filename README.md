@@ -19,15 +19,7 @@
 <code><img height="60" src="https://abutua.com/images/cabutua03.png"></code>
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
 
-<code><img height="50" src="https://user-images.githubusercontent.com/1217238/65354639-dd928f80-dba4-11e9-833b-bc3e8c6a737d.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"></code>
-<code><img height="50" src="https://cdn-images-1.medium.com/max/1024/1*-QTg-_71YF0SVshMEaKZ_g.png"></code>
-<code><img height="50" src="https://miro.medium.com/max/600/0*LZQf7b4u8f97izwV.png"></code>
 
-<code><img height="48" src="https://www.tutorialspoint.com/matplotlib/images/matplotlib_image.jpg"></code>
-<code><img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
-<code><img height="50" src="https://logodix.com/logo/1989939.png"></code>
-<code><img height="50" src="https://spin.atomicobject.com/wp-content/uploads/20180917161630/flask.png"></code>
 
 <code><img height="45" src="https://ab60k6ltry3s9gd53px0mr16-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/Power-Bi-logo-transparent.png"></code>
 <code><img height="38" src="https://erpfm.com/media/image/224-mysql-logo.jpg"></code>
