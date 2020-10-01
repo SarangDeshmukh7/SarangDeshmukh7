@@ -23,7 +23,7 @@
 <code><img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
 <code><img height="50" src="https://logodix.com/logo/1989939.png"></code>
 <code><img height="50" src="https://spin.atomicobject.com/wp-content/uploads/20180917161630/flask.png"></code>
-<code><img height="45" src="https://www.defactoinfotech.com/wp-content/uploads/2018/04/pOWERbi-png.png"></code>
+<code><img height="45" src="https://lh3.googleusercontent.com/proxy/xSHg098RnRMsfzTvBEXJaei-nJ9XM3XhQtACr51FwxbjieqI-ztsHdJyLv3uWKD_r56xXstbWJVATfz7_hQGG9lo4iR3WfU-IIokEYv_SIhOLxYsjRXcBbttVXrbgoaGsYp3BAefAmIioFQz"></code>
 
 
 
