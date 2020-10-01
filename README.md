@@ -5,6 +5,7 @@
 
 </p>
 <p>
+  
 ### Technologies & Tools
 
 <code><img height="48" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a"></code>
@@ -47,16 +48,6 @@
 - [Literature Review on You Only Look Once Model](https://capablemachine.com/2020/07/21/literature-review-on-you-only-look-once-model/)
 
 
-### Contact me
-
-
-
-  <a href="https://www.instagram.com/saranghimself/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sarang-deshmukh-125197182/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/Sarangdgr8"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
-</p>
-<p>
 
 
 
