@@ -10,7 +10,7 @@
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"></code>
 <code><img height = "50" src = "https://secureservercdn.net/50.62.174.113/wn8.1ec.myftpupload.com/wp-content/uploads/2020/09/C.png?time=1599199806"></code>
 <code><img height="50" src="https://cdn.freebiesupply.com/logos/thumbs/2x/c-logo.png"></code>
-<code><img height = "50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png"></code>
+<code><img height = "55" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png"></code>
 <code><img height="60" src="https://abutua.com/images/cabutua03.png"></code>
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
 <code><img height= "50" src = "https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png"></code>
