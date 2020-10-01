@@ -6,7 +6,7 @@
 </p>
 <p>
   
-## Technologies & Languages
+### Technologies & Languages
 
 <code><img height="48" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a"></code>
 <code><img height="47" src="https://hackernoon.com/hn-images/1*rW03Wtue71AKfxnx6XN_iQ.png"></code>
@@ -25,7 +25,7 @@
 
 
 
-## My Website
+### My Website
 
 <a href="https://capablemachine.com/"><img width = "300" height = "55" src = "https://i0.wp.com/capablemachine.com/wp-content/uploads/2020/08/cropped-Black-with-Green-Cube-Computer-Logo-27-12.png?w=910&ssl=1"></code></a>
 
