@@ -8,7 +8,7 @@
 <code><img height="47" src="https://secrethub.io/img/vs-code.svg"></code>
 <code><img height="47" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/feaf74a2-da81-42f2-9c50-37686d02557a/d73n2y9-fc7e0a66-1dd8-42d2-9aba-29a33990067b.png"></code>
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"></code>
-<code><img height="50" src="https://images.squarespace-cdn.com/content/v1/55314942e4b0fc1dd672a975/1531286951574-TD941GB80V77IDOWVPXB/ke17ZwdGBToddI8pDm48kJgzC5Z1v3x5jGT5rIIhbjxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzsiIhKRRtRbOSTUuiv6m5ij3-bZ39qfJhclIlQ2Dpp7gtqS7ionwGbATGdpN5y6Iw/Power+BI+Logo.png"></code>
+<code><img height="50" src="https://www.cdata.com/blog/articles/20180725-powerbi-connectors-1.png"></code>
 <code><img height = "50" src = "https://secureservercdn.net/50.62.174.113/wn8.1ec.myftpupload.com/wp-content/uploads/2020/09/C.png?time=1599199806"></code>
 <code><img height="50" src="https://cdn.freebiesupply.com/logos/thumbs/2x/c-logo.png"></code>
 <code><img height="60" src="https://abutua.com/images/cabutua03.png"></code>
