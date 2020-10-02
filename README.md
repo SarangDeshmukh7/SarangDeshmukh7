@@ -7,7 +7,7 @@
 <p>
   
 ### Technologies & Languages I Know
-<code>
+
 <code><img height="48" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a"></code>
 <code><img height="47" src="https://hackernoon.com/hn-images/1*rW03Wtue71AKfxnx6XN_iQ.png"></code>
 <code><img height = "46" src = "https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"></code>
@@ -21,7 +21,7 @@
 <code><img height="53" src="https://img.icons8.com/color/452/mongodb.png"></code>
 <code><img height="55" src="https://lh3.googleusercontent.com/proxy/IbzpdF5gCk3rXyBH7hCeRURENV2OtsMltvn8AxK8Mo8Ura7_eP3IDl311P_lMa8BlKKQb42EXKJs7hBVGIopWPtCxQ9rImtOS1UsdsHq7haT5ND7"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
-</code>
+
 
 
 ### Check out My Website
@@ -30,8 +30,8 @@
 
 
 ###  Recent Blog Posts
-
-[Machine Learning In Medicine](https://capablemachine.com/2020/08/31/machine-learning-in-medicine/) | [Regularization in Neural Networks](https://capablemachine.com/2020/08/20/regularization-in-neural-networks/) | [Literature Review on You Only Look Once Model](https://capablemachine.com/2020/07/21/literature-review-on-you-only-look-once-model/)
+<code>
+[Machine Learning In Medicine](https://capablemachine.com/2020/08/31/machine-learning-in-medicine/) | [Regularization in Neural Networks](https://capablemachine.com/2020/08/20/regularization-in-neural-networks/) | [Literature Review on You Only Look Once Model](https://capablemachine.com/2020/07/21/literature-review-on-you-only-look-once-model/)</code>
 
 
 
