@@ -19,7 +19,7 @@
 <code><img height="60" src="https://abutua.com/images/cabutua03.png"></code>
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
 <code><img height="53" src="https://img.icons8.com/color/452/mongodb.png"></code>
-<code><img height="55" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/mysqlworkbench_102952.png"></code>
+<code><img height="55" src="https://lh3.googleusercontent.com/proxy/I3FgCOc0g1G9MEIok5vbWiznazDbOHcsFwS4HwmFVaV6i_0oHBLM6Ks5yTQbJbRrqtQdF2pizmLJ0a8IRvgDqrWr4pkgIZaDO6dm6PD905WBGL7I"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
 
 
