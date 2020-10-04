@@ -29,7 +29,7 @@
 <a href="https://capablemachine.com/"><img width = "300" height = "55" src = "https://i0.wp.com/capablemachine.com/wp-content/uploads/2020/08/cropped-Black-with-Green-Cube-Computer-Logo-27-12.png?w=910&ssl=1"></code></a>
 
 
-###  Recent Blogs
+###  Recent Blog Posts
 
 [Machine Learning In Medicine](https://capablemachine.com/2020/08/31/machine-learning-in-medicine/) | [Regularization in Neural Networks](https://capablemachine.com/2020/08/20/regularization-in-neural-networks/) | [Literature Review on You Only Look Once Model](https://capablemachine.com/2020/07/21/literature-review-on-you-only-look-once-model/)
 
