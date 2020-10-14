@@ -1,4 +1,4 @@
-<img src = "https://user-images.githubusercontent.com/66946910/93323073-c0cd7e00-f831-11ea-99c6-afd0b196259c.png" />
+<code><img src = "https://user-images.githubusercontent.com/66946910/93323073-c0cd7e00-f831-11ea-99c6-afd0b196259c.png" /></code>
 <a href="https://www.instagram.com/saranghimself/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sarang-deshmukh-125197182/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/Sarangdgr8"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
