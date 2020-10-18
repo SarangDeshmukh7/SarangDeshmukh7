@@ -26,7 +26,7 @@
 
 ### Check out My Website
 
-<a href="https://capablemachine.com/"><img width = "300" height = "95" src = "https://user-images.githubusercontent.com/66946910/96369541-49fd0b00-1178-11eb-8312-c9c63d272ca7.png"></a>
+<a href="https://capablemachine.com/"><img width = "300" height = "95" src = "https://user-images.githubusercontent.com/66946910/96369645-e6271200-1178-11eb-8847-f56ba6ba8056.png"></a>
 
 
 ###  Recent Blog Posts
