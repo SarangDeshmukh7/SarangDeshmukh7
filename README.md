@@ -26,7 +26,7 @@
 
 ### Check out My Website
 
-<a href="https://capablemachine.com/"><img width = "300" height = "50" src = "https://i0.wp.com/capablemachine.com/wp-content/uploads/2020/08/cropped-Black-with-Green-Cube-Computer-Logo-27-12.png?w=910&ssl=1"></code></a>
+<a href="https://capablemachine.com/"><img width = "310" height = "50" src = "https://i0.wp.com/capablemachine.com/wp-content/uploads/2020/08/cropped-Black-with-Green-Cube-Computer-Logo-27-12.png?w=910&ssl=1"></code></a>
 
 
 ###  Recent Blog Posts
